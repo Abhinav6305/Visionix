@@ -1,0 +1,6 @@
+item,quantity,price,category,timestamp
+Burger,10,5,Food,2024-05-01
+Pizza,5,15,Food,2024-05-02
+Cola,20,2,Drinks,2024-05-03
+Salad,3,10,Food,2024-05-04
+Beer,12,4,Drinks,2024-05-05

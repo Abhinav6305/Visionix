@@ -1,0 +1,15 @@
+[project]
+name = "visionix-backend"
+version = "0.1.0"
+description = "Visionix AI-powered analytics backend"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]>=0.128.1",
+    "pandas>=2.2.0",
+    "httpx>=0.27.0",
+    "python-multipart>=0.0.9",
+    "python-dotenv>=1.0.1",
+    "sqlalchemy>=2.0.0",
+    "numpy>=1.26.0",
+    "google-generativeai",
+]
